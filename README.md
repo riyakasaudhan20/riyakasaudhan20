@@ -5,15 +5,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 
-- 🔭 I’m currently working on **FULL STACK JAVA DEVELOPMENT**
+- 🔭 I’m currently working on **Software Engineer**
 
-- 🌱 I’m currently learning **REACT JS,ANGULAR JS**
+- 🌱 I’m currently learning **FAST API,Pydantic,Poetry**
 
 - 🤝 I’m looking for help with **OPEN SOURCE**
 
 - 👨‍💻 All of my projects are available at [https://riya-kasaudhan.netlify.app/](https://riya-kasaudhan.netlify.app/)
 
-- 💬 Ask me about **JAVA SPRINGBOOT**
+- 💬 Ask me about **Python,Java and its Frameworks**
 
 - 📫 How to reach me **kasaudhanriya970@gmail.com**
 
